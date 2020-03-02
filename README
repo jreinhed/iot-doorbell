@@ -1,0 +1,4 @@
+This is a school project I did with a friend, for our course on network
+communication. It consists of two parts; a LoLin D1 mini that acts as the
+doorbell itself, and a Raspberry Pi as the central hub. They communicate
+using MQTT, with the broker running on the Pi.
